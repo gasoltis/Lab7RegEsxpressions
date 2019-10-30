@@ -1,0 +1,11 @@
+C:\Users\Gsoltis\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\bin\Debug\netcoreapp2.1\Lab7RegularExpressions.deps.json
+C:\Users\Gsoltis\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\bin\Debug\netcoreapp2.1\Lab7RegularExpressions.runtimeconfig.json
+C:\Users\Gsoltis\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\bin\Debug\netcoreapp2.1\Lab7RegularExpressions.runtimeconfig.dev.json
+C:\Users\Gsoltis\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\bin\Debug\netcoreapp2.1\Lab7RegularExpressions.dll
+C:\Users\Gsoltis\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\bin\Debug\netcoreapp2.1\Lab7RegularExpressions.pdb
+C:\Users\Gsoltis\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\netcoreapp2.1\Lab7RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Gsoltis\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\netcoreapp2.1\Lab7RegularExpressions.AssemblyInfoInputs.cache
+C:\Users\Gsoltis\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\netcoreapp2.1\Lab7RegularExpressions.AssemblyInfo.cs
+C:\Users\Gsoltis\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\netcoreapp2.1\Lab7RegularExpressions.dll
+C:\Users\Gsoltis\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\netcoreapp2.1\Lab7RegularExpressions.pdb
+C:\Users\Gsoltis\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\netcoreapp2.1\Lab7RegularExpressions.csprojAssemblyReference.cache
